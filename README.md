@@ -13,5 +13,3 @@
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" height="35" />
   </a>
 </p>
-<br clear="both">
-<img src="https://raw.githubusercontent.com/Anamol166/Anamol166/output/github-contribution-grid-snake.svg" alt="Snake animation" />
